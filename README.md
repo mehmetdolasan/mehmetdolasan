@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-My name is Mehmet. I'm trying to improve myself in the field of iOS development.
+My name is Mehmet. I'm trying to improve myself in the field of QA Automation Engineering.
 
 <!--
 **mehmetdolasan/mehmetdolasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Here are some ideas to get you started:
-- 🔭 I’m currently working on iOS Development.
-- 🌱 I’m currently learning Swift.
-- 💬 Ask me about Swift and anything about iOS Development.
+- 🔭 I’m currently working on QA Automation Engineer.
 - 📫 How to reach me: mehmetdolasan@gmail.com
 
 ### Connect with me:
@@ -16,16 +14,25 @@ Here are some ideas to get you started:
 
 <a href="https://stackoverflow.com/users/19577546/mehmetdolasan"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" align="left" height="48" width="48"></a>
 
-<a href="https://medium.com/@mehmetdolasan"><img src="http://logok.org/wp-content/uploads/2020/10/Medium-logo-2020-symbol.png" align="left" height="48" width="96"></a>
+<a href="https://medium.com/@mehmetdolasan"><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*jfdwtvU6V6g99q3G7gq7dQ.png" align="left" height="48" width="96"></a>
 
 <br>
 <br>
 
 ### Technologies:
 
-<a href="https://developer.apple.com/swift/"><img src="https://brandslogos.com/wp-content/uploads/images/large/swift-logo.png" align="left" height="48" width="48"></a>
 <a href="https://www.w3schools.com/html/"><img src="https://brandslogos.com/wp-content/uploads/images/large/html5-logo.png" align="left" height="48" width="48"></a>
 <a href="https://www.w3schools.com/css/"><img src="https://brandslogos.com/wp-content/uploads/images/large/css3-logo.png" align="left" height="48" width="48"></a>
+<a href="https://www.java.com/"><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-vector-1.svg" align="left" height="48" width="48"></a>
+<a href="https://www.selenium.dev/"><img src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png" align="left" height="48" width="48"></a>
+<a href="https://appium.io/docs"><img src="https://www.testgrid.io/blog/wp-content/uploads/2021/05/appium.png" align="left" height="48" width="48"></a>
+<a href="https://gauge.org/"><img src="https://brand.gauge.org/assets/images/gauge-bw-logo.png" align="left" height="48" width="48"></a>
+<a href="https://maven.apache.org/"><img src="https://logowik.com/content/uploads/images/maven-apache3537.jpg" align="left" height="48" width="48"></a>
+<a href="https://junit.org/junit5/"><img src="https://mkyong.com/wp-content/uploads/2016/05/junit-logo.png" align="left" height="48" width="48"></a>
+<a href="https://testng.org/doc/"><img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png?resize=1024%2C576&ssl=1" align="left" height="48" width="48"></a>
+<a href="https://cucumber.io/"><img src="https://logowik.com/content/uploads/images/cucumber3822.jpg" align="left" height="48" width="48"></a>
+<a href="https://www.docker.com/"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" align="left" height="48" width="48"></a>
+<a href="https://www.jenkins.io/"><img src="https://w7.pngwing.com/pngs/86/834/png-transparent-jenkins-continuous-integration-logo-software-testing-sonarqube-others-text-logo-cartoon-thumbnail.png" align="left" height="48" width="48"></a>
 
 <br>
 <br>
