@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/css/"><img src="https://brandslogos.com/wp-content/uploads/images/large/css3-logo.png" align="left" height="48" width="48"></a>
 <a href="https://www.java.com/"><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-vector-1.svg" align="left" height="48" width="48"></a>
 <a href="https://www.selenium.dev/"><img src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png" align="left" height="48" width="48"></a>
-<a href="https://appium.io/docs/en/2.4/"><img src="https://www.testgrid.io/blog/wp-content/uploads/2021/05/appium.png" align="left" height="48" width="48"></a>
+<a href="https://appium.io/docs/en/2.4/"><img src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/appium.png" align="left" height="48" width="48"></a>
 <a href="https://gauge.org/"><img src="https://brand.gauge.org/assets/images/gauge-bw-logo.png" align="left" height="48" width="48"></a>
 <a href="https://maven.apache.org/"><img src="https://logowik.com/content/uploads/images/maven-apache3537.jpg" align="left" height="48" width="48"></a>
 <a href="https://junit.org/junit5/"><img src="https://mkyong.com/wp-content/uploads/2016/05/junit-logo.png" align="left" height="48" width="48"></a>
